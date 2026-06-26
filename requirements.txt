@@ -1,0 +1,9 @@
+pandas
+kagglehub
+librosa
+torchaudio
+matplotlib
+seaborn
+dvc
+dagshub
+label-studio-ml
