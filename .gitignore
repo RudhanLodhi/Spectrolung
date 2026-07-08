@@ -1,6 +1,6 @@
-/Respiratory_Sound_Database
 /__pycache__
-/HF_Lung_V1
-/HLS-CMDS
+/backend
+/HF_Lung
+/ICBHI
 /SPR
-/merged_dataset
+/RAW_Datasets
