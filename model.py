@@ -20,7 +20,7 @@ LABEL_MAP = {
     "pleural_rub": "Pleural Rub"
 }
 
-CSV_FILE = "C:\\Spectrolung\\hf_lung_relabel_windows_v1.csv"
+CSV_FILE = "C:\\Spectrolung\\relabel_csv\\hf_lung_relabel_windows_v2.csv"
 
 def sanitize_filename(filename):
     """
@@ -147,7 +147,7 @@ class CSVLookupModel(LabelStudioMLBase):
                 print(f"   ❌ No match found in CSV for key '{search_key}'.")
 
             predictions.append({
-                "model_version": "csv_lookup_exact_match",
+                "model_version": "csv_lookupv2",
                 "result": results
             })
 
