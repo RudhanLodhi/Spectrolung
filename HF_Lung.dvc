@@ -1,0 +1,6 @@
+outs:
+- md5: 79f4761771847c1aeff6945ec9562cd3.dir
+  size: 1180468031
+  nfiles: 19531
+  hash: md5
+  path: HF_Lung
