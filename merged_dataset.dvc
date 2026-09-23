@@ -1,6 +1,0 @@
-outs:
-- md5: 3dd8e70b0bd4fb4c60724419944a8ab8.dir
-  size: 4512100147
-  nfiles: 16960
-  hash: md5
-  path: merged_dataset
