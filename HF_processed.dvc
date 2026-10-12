@@ -1,0 +1,6 @@
+outs:
+- md5: 5d381fce0a921a36e19054a6644598ec.dir
+  size: 2124629179
+  nfiles: 5
+  hash: md5
+  path: HF_processed
