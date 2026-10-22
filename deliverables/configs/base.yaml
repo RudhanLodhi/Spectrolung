@@ -1,0 +1,12 @@
+sample_rate: 4000
+fps: 100
+hop_length: 40
+n_fft: 512
+n_mels: 64
+fmin: 25
+fmax: 2000
+encoder_time_stride: 4
+median_filter_ms: 120
+minimum_event_seconds: 0.15
+seeds: [0, 1, 2]
+cache_version: s2s-v1
