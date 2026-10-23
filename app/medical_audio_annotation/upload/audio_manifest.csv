@@ -1,0 +1,4 @@
+audio_path,recording_id
+recording_001.wav,recording_001
+recording_002.wav,recording_002
+subfolder/recording_003.wav,recording_003
